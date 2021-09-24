@@ -11,21 +11,18 @@ namespace DistanceCalculator_A
         /*
         public static double Convert(double value, string convertFrom, string convertTo)
         {
-
         }
         */
 
         /*
         private static string ModifyInput(string input) 
         {
-
         }
         */
 
         /*
         private static double GetMultiplier(string convertFrom, string convertTo)
         {
-
         }
         */
     }
