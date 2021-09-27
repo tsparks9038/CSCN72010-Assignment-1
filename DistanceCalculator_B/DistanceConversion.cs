@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DistanceCalculator_A
+namespace DistanceCalculator_B
 {
     public static class DistanceConversion
     {
